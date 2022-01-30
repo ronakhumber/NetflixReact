@@ -33,7 +33,7 @@ body {
   padding: 8px 15px;
 }
 body{ background: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-  url("http://s3-us-west-2.amazonaws.com/techvibes/wp-content/uploads/2017/04/24135159/Netflix-Background.jpg");
+  url("./img/Netflix-Background.jpg");
 background-position: center;
 background-repeat: no-repeat;
 background-attachment: fixed;}
